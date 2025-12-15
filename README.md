@@ -12,7 +12,7 @@
 - HTML5
 - CSS3
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelferreira&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michell-ferreira&layout=compact&cache_seconds=1800)
 
 ## 📫 Contato
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/michel-ferreira)
