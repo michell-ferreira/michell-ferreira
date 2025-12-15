@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Olá, eu sou Michell
 
-<!--
-**michell-ferreira/michell-ferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) 
+💻 Focado em Java, POO e Banco de Dados  
+📚 Aprendendo na prática e evoluindo passo a passo  
+🚀 Buscando estágio para crescer como desenvolvedor  
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
+- Java
+- Git & GitHub
+- JavaFX (básico)
+- HTML5
+- CSS3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelferreira&layout=compact)
+
+## 📫 Contato
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/michel-ferreira)
