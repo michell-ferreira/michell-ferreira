@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Michell
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) 
-💻 Focado em Java, POO e Banco de Dados  
+💻 Focado em Java, POO
 📚 Aprendendo na prática e evoluindo passo a passo  
 🚀 Buscando estágio para crescer como desenvolvedor  
 
